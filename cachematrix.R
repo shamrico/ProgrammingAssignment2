@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This file contains two methods used to cache the inverse 
+## of a matrix, since this can be an expensive operation.
 
 ## This function maintains the cache containing the inverse 
 ## of a matrix whose inverse exists.
